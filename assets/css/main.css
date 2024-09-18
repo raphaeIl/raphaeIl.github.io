@@ -178,13 +178,14 @@
 		margin: 0 0 1em 0;
 	}
 
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
-			text-decoration: none;
-		}
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+		color: inherit;
+		text-decoration: none;
+	}
 
 	h2 {
-		font-size: 1.75em;
+		font-weight: 1000;
+		font-size: 2.5em;
 	}
 
 	h3 {
